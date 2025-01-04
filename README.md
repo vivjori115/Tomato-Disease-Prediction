@@ -1,13 +1,7 @@
-![](https://github.com/Ambigapathi-V/Tomato-Disease-Prediction/blob/main/img/Tomato%20Diseases.png)
+![](https://github.com/vivjori115/Tomato-Disease-Prediction/blob/main/img/Tomato%20Diseases.png)
 
 # Tomato Disease Prediction
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/pragyy/datascience-readme-template?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/pragyy/datascience-readme-template)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/pragyy/datascience-readme-template)
-![GitHub](https://img.shields.io/github/license/pragyy/datascience-readme-template)
-![contributors](https://img.shields.io/github/contributors/pragyy/datascience-readme-template) 
-![codesize](https://img.shields.io/github/languages/code-size/pragyy/datascience-readme-template) 
 
 
 
@@ -29,19 +23,19 @@ The **Tomato Disease Prediction project** is a machine learning solution aimed a
 
 ## Demo
 
-[App link](https://ambigapathi-v-tomato-disease-prediction-app-iteodd.streamlit.app/)
+[App link](https://tomato-disease-prediction-7bsmewffvrn7bkzxhizdnu.streamlit.app/)
 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Ambigapathi-V/Tomato-Disease-Prediction/blob/main/T.png)
+![App Screenshot](https://github.com/vivjori115/Tomato-Disease-Prediction/blob/main/Screenshot%202025-01-04%20214233.png)
 
 # Installation and Setup
 
 **1.Clone the Repository:**
 
 ```bash
-  git clone https://github.com/Ambigapathi-V/Tomato-Disease-Prediction
+  git clone https://github.com/vivjori115/Tomato-Disease-Prediction
   cd Credit-Risk-Model
 ```
 **2.Set Up a Virtual Environment:**
@@ -99,7 +93,6 @@ This section provides a list of dependencies required to replicate the **Tomato 
   - `PIL` - For handling and processing images.
   - `streamlit` - For building an interactive web application to deploy the model.
 
-Feel free to add more categories, such as **Data Preparation** or **Statistical Analysis**, depending on the requirements and complexity of the project.
 
 
 ## 📊 Data
@@ -183,7 +176,7 @@ Here is the basic suggested skeleton for your data science repo (you can structu
 
 6. **Classification Report**:  
    The classification report provides a summary of the precision, recall, F1-score, and support for each class. It is a comprehensive evaluation tool for multi-class classification problems.
-![](https://github.com/Ambigapathi-V/Tomato-Disease-Prediction/blob/main/img/Training%20and%20Validation%20loss%20and%20accuracy.png)
+![](https://github.com/vivjori115/Tomato-Disease-Prediction/blob/main/img/Training%20and%20Validation%20loss%20and%20accuracy.png)
 
    
 
@@ -291,8 +284,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Ambigapathi-V/Tomato-Disease-Prediction.git
-
+   git clone https://github.com/vivjori115/Tomato-Disease-Prediction
 2. Navigate to the project directory:
    ```bash
    cd Tomato-Disease-Prediction
@@ -321,8 +313,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Explore the Project
 
-- **Website**: [Tomato Disease Prediction App](https://ambigapathi-v-tomato-disease-prediction-app-iteodd.streamlit.app/)
-- **LinkedIn**: [Ambigapathi V](https://www.linkedin.com/in/ambigapathi-v)
+- **Website**: [Tomato Disease Prediction App](https://tomato-disease-prediction-7bsmewffvrn7bkzxhizdnu.streamlit.app/)
+- **LinkedIn**: [Vivek Jori ](https://www.linkedin.com/in/vivek-jori-11s/)
 
 
 >>>>>>> 3160a77db8565d696f677cf1afda7309668d5abe
